@@ -1,0 +1,1 @@
+Delete FROM users WHERE username = 'Ivan123'
